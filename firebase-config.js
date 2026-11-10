@@ -1,7 +1,10 @@
-// Substitua pelos dados do seu projeto em Firebase Console > Configuracoes do projeto.
+
 export const firebaseConfig = {
-  apiKey: 'COLE_AQUI',
-  authDomain: 'SEU-PROJETO.firebaseapp.com',
-  projectId: 'SEU-PROJETO',
-  appId: 'COLE_AQUI'
+  apiKey: "AIzaSyC6WrJV0Cj4fxbTc7ishhBp7EXPeEN1Hdc",
+  authDomain: "missao-cumprida-944e4.firebaseapp.com",
+  projectId: "missao-cumprida-944e4",
+  storageBucket: "missao-cumprida-944e4.firebasestorage.app",
+  messagingSenderId: "595023423576",
+  appId: "1:595023423576:web:3ada3f0c8df234fe25422d",
+  measurementId: "G-1C365XWCQY"
 };
