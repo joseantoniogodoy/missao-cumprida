@@ -1,4 +1,4 @@
-
+// Configuracao publica do aplicativo Web Firebase.
 export const firebaseConfig = {
   apiKey: "AIzaSyC6WrJV0Cj4fxbTc7ishhBp7EXPeEN1Hdc",
   authDomain: "missao-cumprida-944e4.firebaseapp.com",
