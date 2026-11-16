@@ -43,3 +43,7 @@ A revelação continua bloqueada até o encerramento das quatro rodadas. O jogo 
 - Semana 4: 10 fichas iniciais, imprevisto −2, **8 fichas para escolher ações**.
 
 Todos os imprevistos aparecem antes da escolha das ações. A revelação das consequências permanece bloqueada até a conclusão da quarta rodada. Os limites são aplicados tanto aos botões de seleção quanto aos relatórios.
+
+
+## Nova sintese final
+Apos quatro rodadas, a revelacao apresenta quatro indicadores: acoes selecionadas, retomadas de combinados, replanejamentos e analises de producoes. Os numeros contam escolhas, nao execucao ou resultados.
